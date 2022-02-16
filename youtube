@@ -1,0 +1,14 @@
+! https://www.youtube.com
+www.youtube.com###guide-content
+www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
+www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(1)
+www.youtube.com##.size-small.style-suggestive.ytd-masthead.style-scope
+www.youtube.com###guide-button
+www.youtube.com###secondary > .ytd-watch-flexy.style-scope
+www.youtube.com##.ytd-comments.style-scope
+www.youtube.com##.ytd-video-primary-info-renderer.style-scope > .ytd-menu-renderer.style-scope.top-level-buttons
+www.youtube.com##.size-default.style-destructive.ytd-video-secondary-info-renderer.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint
+www.youtube.com##.grid-disabled.ytd-browse.style-scope > .ytd-two-column-browse-results-renderer.style-scope
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+www.youtube.com###voice-search-button
+www.youtube.com###home-container-skeleton
