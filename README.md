@@ -1,3 +1,3 @@
 # filter_lists
 
-uBlock and pihole filter lists
+uBlock Origin and Pi-hole filter lists
