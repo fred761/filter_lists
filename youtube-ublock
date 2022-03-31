@@ -5,3 +5,5 @@ www.youtube.com##.grid-disabled.ytd-browse.style-scope
 www.youtube.com##.ytd-comments
 www.youtube.com###related
 www.youtube.com###secondary
+www.youtube.com##ytd-thumbnail.ytd-grid-video-renderer.style-scope
+www.youtube.com##ytd-thumbnail.ytd-video-renderer.style-scope
